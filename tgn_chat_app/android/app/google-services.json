@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354119961411",
+    "project_id": "tgnchatapp",
+    "storage_bucket": "tgnchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354119961411:android:33cecb5d65317dea907df6",
+        "android_client_info": {
+          "package_name": "com.example.tgn_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354119961411-4uok528v48j9m0u13u4q1qiupi7j35dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcH-2VJf1qv0MY8y8X1TdagIcx5b5dpKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354119961411-4uok528v48j9m0u13u4q1qiupi7j35dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
